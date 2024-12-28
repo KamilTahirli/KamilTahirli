@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**KamilTahirli/KamilTahirli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm Kamil Tahirli
+I work as a backend developer specializing in PHP and Laravel 🚀
 
-Here are some ideas to get you started:
+💻 About Me
+- Backend: PHP, Laravel, RESTful API, SOLID principles
+- Database: MySQL, Redis
+- Performance: Cache, Queue, Asynchronous Processes
+- Frontend: Vue.js, Nuxt.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+---
+
+## 📈 Statistics
+
+![Kamil GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilTahirli&show_icons=true&theme=radical)
+
+---
+
+## 🌍 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KamilTahirli-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kamiltahirli)
+[![Email](https://img.shields.io/badge/tahirli587@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirli587@gmail.com)
